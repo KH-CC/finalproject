@@ -1,7 +1,7 @@
 # finalproject
 
 -------
-* Youtube Link : 
+* Youtube Link : https://youtu.be/1ZuZmjASHdo
 
 
 * This game includes two section!
@@ -18,7 +18,7 @@
   2. Design Your own Jar
      - If screen clicked, candy is drawn at screen
      - Auto Screen capture when key ‘S’ get pressed
-     - Candy color is depended on your game result-Get Random Message by pressing Keyboard (number 1~5 Keys!)
+     - Candy color is depended on your game result : Get Random Message by pressing Keyboard (number 1~5 Keys!)
      - Messages 
      1 Happy Anniversary
      2 Thank You
